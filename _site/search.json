@@ -2,15 +2,85 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Carolyn Wang",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In this group project, we aimed to predict whether or not someone is alcoholic from various vital tests and attributes. The data contained noise and has a significant amount of missing values, which made it challenging to apply modeling techniques out-of-the-box. We approach this challenge in three different ways: imputation, model selection, and variable selection. For each, we perform experiments to determine the optimal strategy or modeling technique by training models and evaluating their performance on the provided testing data. Throughout this project, we optimized for both model performance and model simplicity and arrived at the conclusion that a complex imputation combined with a simple hyperparameter-tuned Gradient Boosting Machine (GBM) is the best model.\nLink to Project"
+  },
+  {
+    "objectID": "about.html#project-1",
+    "href": "about.html#project-1",
+    "title": "Carolyn Wang",
+    "section": "",
+    "text": "Description of Project 1 Link to Project"
+  },
+  {
+    "objectID": "about.html#project-2",
+    "href": "about.html#project-2",
+    "title": "Carolyn Wang",
+    "section": "Project 2",
+    "text": "Project 2\nDescription of Project 2 Link to Project"
+  },
+  {
+    "objectID": "about.html#coming-soon-public-affairs-honors-thesis-2024-202.",
+    "href": "about.html#coming-soon-public-affairs-honors-thesis-2024-202.",
+    "title": "Carolyn Wang",
+    "section": "Coming Soon: Public Affairs Honors Thesis 2024-202.",
+    "text": "Coming Soon: Public Affairs Honors Thesis 2024-202."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Carolyn Wang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Carolyn Wang is a undergraduate Statistics and Data Science and Public Affairs major at UCLA. Currently, Carolyn conducts research on Social and Emotional Learning in K-12 schools, interns at Strategic Actions for a Just Economy, and serves as the Community Service Commissioner, an elected official on UCLA’s student government. Outside of school, Carolyn enjoys hiking, traveling, and trying new restaurants.\nDownload Carolyn’s CV"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Carolyn Wang",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. & B.A. in Statistics and Data Science and Public Affairs | Expected June 2025 Graduation"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Carolyn Wang",
+    "section": "Experience",
+    "text": "Experience\nUndergraduate Students Association | Community Service Commissioner | May 2024 - Present\nBNP Paribas | Risk Intern | June 2024 - August 2024\nLos Angeles Education Research Institute | Research Intern | June 2023 - May 2024"
+  },
+  {
+    "objectID": "about.html#coming-soon-public-affairs-honors-thesis-2024-2025.",
+    "href": "about.html#coming-soon-public-affairs-honors-thesis-2024-2025.",
+    "title": "Carolyn Wang",
+    "section": "Coming Soon: Public Affairs Honors Thesis 2024-2025.",
+    "text": "Coming Soon: Public Affairs Honors Thesis 2024-2025.\nFor the 2024-2025 Academic Year, Carolyn is working on an honors thesis as a culmination of her undergraduate studies in Public Affairs. Only around 10% of Public Affairs students are selected to complete an honors thesis each year. Carolyn is studying how Covid-19 affected social emotional learning in the Los Angeles Unified School District utilizing statistical methods. The project is set to be finished in June 2025."
+  },
+  {
+    "objectID": "about.html#predicting-alcholic-status-using-vitals-2023",
+    "href": "about.html#predicting-alcholic-status-using-vitals-2023",
+    "title": "Carolyn Wang",
+    "section": "",
+    "text": "In this group project, we aimed to predict whether or not someone is alcoholic from various vital tests and attributes. The data contained noise and has a significant amount of missing values, which made it challenging to apply modeling techniques out-of-the-box. We approach this challenge in three different ways: imputation, model selection, and variable selection. For each, we perform experiments to determine the optimal strategy or modeling technique by training models and evaluating their performance on the provided testing data. Throughout this project, we optimized for both model performance and model simplicity and arrived at the conclusion that a complex imputation combined with a simple hyperparameter-tuned Gradient Boosting Machine (GBM) is the best model.\nLink to Project"
+  },
+  {
+    "objectID": "about.html#predicting-student-math-scores-2023",
+    "href": "about.html#predicting-student-math-scores-2023",
+    "title": "Carolyn Wang",
+    "section": "Predicting Student Math Scores, 2023",
+    "text": "Predicting Student Math Scores, 2023\nFor our report, we analyzed and summarized the results of the math scores of 1,000 high school students in the United States. We studied the effects of predictor variables such as writing scores, reading scores, lunch, parental education level, and gender on a student’s math score to find an optimal Multiple Linear Regression Model.\nLink to Project"
+  },
+  {
+    "objectID": "about.html#coming-soon-public-affairs-honors-thesis-2025",
+    "href": "about.html#coming-soon-public-affairs-honors-thesis-2025",
+    "title": "Carolyn Wang",
+    "section": "Coming Soon: Public Affairs Honors Thesis, 2025",
+    "text": "Coming Soon: Public Affairs Honors Thesis, 2025\nFor the 2024-2025 Academic Year, Carolyn is working on a comprehensive honors thesis as a culmination of her undergraduate studies in Public Affairs. Carolyn is studying how Covid-19 affected social emotional learning in the Los Angeles Unified School District utilizing statistical methods on the publicly available LAUSD Student Experience Survey data from 2019-2020 and 2022-2023. The project also explores what school factors are related to a greater change in social and emotional learning. The project is set to be finished in June 2025."
+  },
+  {
+    "objectID": "about.html#analyzing-student-math-scores-with-multiple-linear-regression-2023",
+    "href": "about.html#analyzing-student-math-scores-with-multiple-linear-regression-2023",
+    "title": "Carolyn Wang",
+    "section": "Analyzing Student Math Scores with Multiple Linear Regression, 2023",
+    "text": "Analyzing Student Math Scores with Multiple Linear Regression, 2023\nFor our report, we analyzed and summarized the results of the math scores of 1,000 high school students in the United States. We studied the effects of predictor variables such as writing scores, reading scores, lunch, parental education level, and gender on a student’s math score to find an optimal Multiple Linear Regression Model.\nLink to Project"
   }
 ]

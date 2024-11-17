@@ -1,9 +1,12 @@
----
-title: "About"
----
+## Predicting Alcholic Status Using Vitals, 2023   
+In this group project, we aimed to predict whether or not someone is alcoholic from various vital tests and attributes. The data contained noise and has a significant amount of missing values, which made it challenging to apply modeling techniques out-of-the-box. We approach this challenge in three different ways: imputation, model selection, and variable selection. For each, we perform experiments to determine the optimal strategy or modeling technique by training models and evaluating their performance on the provided testing data. Throughout this project, we optimized for both model performance and model simplicity and arrived at the conclusion that a complex imputation combined with a simple hyperparameter-tuned Gradient Boosting Machine (GBM) is the best model.  
 
-About this site
+[Link to Project](/101c paper.pdf)   
 
-```{r}
-1 + 1
-```
+## Analyzing Student Math Scores with Multiple Linear Regression, 2023 
+For our report, we analyzed and summarized the results of the math scores of 1,000 high school students in the United States. We studied the effects of predictor variables such as writing scores, reading scores, lunch, parental education level, and gender on a student’s math score to find an optimal Multiple Linear Regression Model.  
+
+[Link to Project](/Stats 101a final project presentation.pdf)   
+
+## Coming Soon: Public Affairs Honors Thesis, 2025   
+For the 2024-2025 Academic Year, Carolyn is working on a comprehensive honors thesis as a culmination of her undergraduate studies in Public Affairs. Carolyn is studying how Covid-19 affected social emotional learning in the Los Angeles Unified School District utilizing statistical methods on the publicly available LAUSD Student Experience Survey data from 2019-2020 and 2022-2023. The project also explores what school factors are related to a greater change in social and emotional learning. The project is set to be finished in June 2025.    

@@ -1,11 +1,32 @@
 ---
-title: "personal-website"
+title: "Carolyn Wang"
+about:
+  template: trestles
+  image: /pictures/headshot_Carolyn_Wang.jpeg
+  links:
+    - text: Email
+      url: "mailto:carolynwang25@g.ucla.edu"
+      icon: inbox-fill
+    - text: Linkedin
+      url: "https://www.linkedin.com/in/carolyn-wang25/" 
+    - text: Github
+      icon: github
+      href: "https://github.com/ccarolynwang"
+toc: false
 ---
 
-This is a Quarto website.
+Carolyn Wang is a undergraduate Statistics and Data Science and Public Affairs major at UCLA. Currently, Carolyn conducts research on Social and Emotional Learning in K-12 schools, interns at Strategic Actions for a Just Economy, and serves as the Community Service Commissioner, an elected official on UCLA's student government. Outside of school, Carolyn enjoys hiking, traveling, and trying new restaurants.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Download [Carolyn's CV](/Resume_Carolyn_Wang_2024.pdf)
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA   
+B.S. & B.A. in Statistics and Data Science and Public Affairs | Expected June 2025 Graduation 
+
+## Experience
+Undergraduate Students Association | Community Service Commissioner | May 2024 - Present    
+
+BNP Paribas | Risk Intern | June 2024 - August 2024  
+
+Los Angeles Education Research Institute | Research Intern | June 2023 - May 2024   
