@@ -5,7 +5,7 @@ about:
   image: /pictures/headshot_Carolyn_Wang.jpeg
   links:
     - text: Email
-      url: "mailto:carolynwang25@g.ucla.edu"
+      url: "mailto:carolynwang25@ucla.edu"
       icon: inbox-fill
     - text: Linkedin
       url: "https://www.linkedin.com/in/carolyn-wang25/" 
