@@ -22,7 +22,6 @@
 
 **Introduction to Computational Statistics with R: I**ntroduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping.
 
-\
 **Introduction to Monte Carlo Method:** Introduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms.
 
 ### Miscellaneous
