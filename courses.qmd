@@ -1,0 +1,32 @@
+## Relevant Coursework
+
+### Mathematical Courses
+
+**Introduction to Probability**
+
+**Mathematical Statistics:** Survey sampling, estimation, testing, data summary, one- and two-sample problems.
+
+**Introduction to Linear Models**: Theory of linear models, with emphasis on matrix approach to linear regression. Topics include model fitting, extra sums of squares principle, testing general linear hypothesis in regression, inference procedures, Gauss/Markov theorem, examination of residuals, principle component regression, stepwise procedures
+
+**Bayesian Statistics:** Introduction to statistical inference based on use of Bayes theorem, covering foundational aspects, current applications, and computational issues. Topics include Stein paradox, nonparametric Bayes, and statistical learning.
+
+### Application Based Courses
+
+**Introduction to Data Analysis and Regression**
+
+**Introduction to Experimental Design and Analysis of Experiment:** Fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.
+
+**Introduction to Statistical Models and Data Mining (Stats 101c):** Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.
+
+### Computational Courses
+
+**Introduction to Computational Statistics with R: I**ntroduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping.
+
+\
+**Introduction to Monte Carlo Method:** Introduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms.
+
+### Miscellaneous
+
+**Data Analysis for Educational Equity and Improvement**: Focus on challenge of making survey data useful to educators so that they can use those data to reflect on school and district policies and practices and, ultimately, use information to improve students' school experiences.
+
+**Introduction to Digital Humanities:** Provide theoretical and conceptual framework for understanding genesis of digital world. Use of contemporary cultural-historical methodology to focus on rise of new media and information technologies in 19th, 20th, and 21st centuries, such as photography, film, radio, television, Internet, and World Wide Web and their impact on how individuals, groups, and cultures experienced their worlds.

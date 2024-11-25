@@ -15,3 +15,5 @@ NextGenOpportunity is an undergraduate project created as part of UCLA's Introdu
 For our report, we analyzed and summarized the results of the math scores of 1,000 high school students in the United States. We studied the effects of predictor variables such as writing scores, reading scores, lunch, parental education level, and gender on a student’s math score to find an optimal Multiple Linear Regression Model.  
 
 [Link to Project](/Stats 101a final project presentation.pdf)   
+
+

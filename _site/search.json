@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Carolyn Wang",
-    "section": "",
-    "text": "For the 2024-2025 Academic Year, Carolyn is working on a comprehensive honors thesis as a culmination of her undergraduate studies in Public Affairs. Carolyn is studying how Covid-19 affected social emotional learning in the Los Angeles Unified School District utilizing statistical methods on the publicly available LAUSD Student Experience Survey data from 2019-2020 and 2022-2023. The project also explores what school factors are related to a greater change in social and emotional learning. The project is set to be finished in June 2025."
-  },
-  {
-    "objectID": "about.html#coming-soon-public-affairs-honors-thesis-2024-2025",
-    "href": "about.html#coming-soon-public-affairs-honors-thesis-2024-2025",
-    "title": "Carolyn Wang",
-    "section": "",
-    "text": "For the 2024-2025 Academic Year, Carolyn is working on a comprehensive honors thesis as a culmination of her undergraduate studies in Public Affairs. Carolyn is studying how Covid-19 affected social emotional learning in the Los Angeles Unified School District utilizing statistical methods on the publicly available LAUSD Student Experience Survey data from 2019-2020 and 2022-2023. The project also explores what school factors are related to a greater change in social and emotional learning. The project is set to be finished in June 2025."
-  },
-  {
-    "objectID": "about.html#predicting-alcholic-status-using-vitals",
-    "href": "about.html#predicting-alcholic-status-using-vitals",
-    "title": "Carolyn Wang",
-    "section": "Predicting Alcholic Status Using Vitals",
-    "text": "Predicting Alcholic Status Using Vitals\nIn this group project, we aimed to predict whether or not someone is alcoholic from various vital tests and attributes. The data contained noise and has a significant amount of missing values, which made it challenging to apply modeling techniques out-of-the-box. We approach this challenge in three different ways: imputation, model selection, and variable selection. For each, we perform experiments to determine the optimal strategy or modeling technique by training models and evaluating their performance on the provided testing data. Throughout this project, we optimized for both model performance and model simplicity and arrived at the conclusion that a complex imputation combined with a simple hyperparameter-tuned Gradient Boosting Machine (GBM) is the best model.\nLink to Project"
-  },
-  {
-    "objectID": "about.html#next-gen-opportunity",
-    "href": "about.html#next-gen-opportunity",
-    "title": "Carolyn Wang",
-    "section": "Next Gen Opportunity",
-    "text": "Next Gen Opportunity\nNextGenOpportunity is an undergraduate project created as part of UCLA’s Introduction to Digital Humanities course (Digital Humanities 101). Using a publicly-available database of their choosing, students applied computational methods to conduct humanistic inquiry on their database. The resulting narrative is presented in an engaging, interactive website. This project explores the role of location and geography in shaping child education and opportunity across the United States and addresses the research questions 1. What role do local population numbers play in children’s educational opportunities in the U.S.? and 2. What patterns exist between income, education opportunity, and population?\nLink to Project"
-  },
-  {
-    "objectID": "about.html#analyzing-student-math-scores-with-multiple-linear-regression",
-    "href": "about.html#analyzing-student-math-scores-with-multiple-linear-regression",
-    "title": "Carolyn Wang",
-    "section": "Analyzing Student Math Scores with Multiple Linear Regression",
-    "text": "Analyzing Student Math Scores with Multiple Linear Regression\nFor our report, we analyzed and summarized the results of the math scores of 1,000 high school students in the United States. We studied the effects of predictor variables such as writing scores, reading scores, lunch, parental education level, and gender on a student’s math score to find an optimal Multiple Linear Regression Model.\nLink to Project"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Carolyn Wang",
@@ -89,5 +54,19 @@
     "title": "Carolyn Wang",
     "section": "Analyzing Student Math Scores with Multiple Linear Regression",
     "text": "Analyzing Student Math Scores with Multiple Linear Regression\nFor our report, we analyzed and summarized the results of the math scores of 1,000 high school students in the United States. We studied the effects of predictor variables such as writing scores, reading scores, lunch, parental education level, and gender on a student’s math score to find an optimal Multiple Linear Regression Model.\nLink to Project"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Carolyn Wang",
+    "section": "",
+    "text": "Introduction to Probability\nMathematical Statistics: Survey sampling, estimation, testing, data summary, one- and two-sample problems.\nIntroduction to Linear Models: Theory of linear models, with emphasis on matrix approach to linear regression. Topics include model fitting, extra sums of squares principle, testing general linear hypothesis in regression, inference procedures, Gauss/Markov theorem, examination of residuals, principle component regression, stepwise procedures\nBayesian Statistics: Introduction to statistical inference based on use of Bayes theorem, covering foundational aspects, current applications, and computational issues. Topics include Stein paradox, nonparametric Bayes, and statistical learning.\n\n\n\nIntroduction to Data Analysis and Regression\nIntroduction to Experimental Design and Analysis of Experiment: Fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.\nIntroduction to Statistical Models and Data Mining (Stats 101c): Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.\n\n\n\nIntroduction to Computational Statistics with R: Introduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping.\n\nIntroduction to Monte Carlo Method: Introduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms.\n\n\n\nData Analysis for Educational Equity and Improvement: Focus on challenge of making survey data useful to educators so that they can use those data to reflect on school and district policies and practices and, ultimately, use information to improve students’ school experiences.\nIntroduction to Digital Humanities: Provide theoretical and conceptual framework for understanding genesis of digital world. Use of contemporary cultural-historical methodology to focus on rise of new media and information technologies in 19th, 20th, and 21st centuries, such as photography, film, radio, television, Internet, and World Wide Web and their impact on how individuals, groups, and cultures experienced their worlds."
+  },
+  {
+    "objectID": "courses.html#relevant-coursework",
+    "href": "courses.html#relevant-coursework",
+    "title": "Carolyn Wang",
+    "section": "",
+    "text": "Introduction to Probability\nMathematical Statistics: Survey sampling, estimation, testing, data summary, one- and two-sample problems.\nIntroduction to Linear Models: Theory of linear models, with emphasis on matrix approach to linear regression. Topics include model fitting, extra sums of squares principle, testing general linear hypothesis in regression, inference procedures, Gauss/Markov theorem, examination of residuals, principle component regression, stepwise procedures\nBayesian Statistics: Introduction to statistical inference based on use of Bayes theorem, covering foundational aspects, current applications, and computational issues. Topics include Stein paradox, nonparametric Bayes, and statistical learning.\n\n\n\nIntroduction to Data Analysis and Regression\nIntroduction to Experimental Design and Analysis of Experiment: Fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.\nIntroduction to Statistical Models and Data Mining (Stats 101c): Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.\n\n\n\nIntroduction to Computational Statistics with R: Introduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping.\n\nIntroduction to Monte Carlo Method: Introduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms.\n\n\n\nData Analysis for Educational Equity and Improvement: Focus on challenge of making survey data useful to educators so that they can use those data to reflect on school and district policies and practices and, ultimately, use information to improve students’ school experiences.\nIntroduction to Digital Humanities: Provide theoretical and conceptual framework for understanding genesis of digital world. Use of contemporary cultural-historical methodology to focus on rise of new media and information technologies in 19th, 20th, and 21st centuries, such as photography, film, radio, television, Internet, and World Wide Web and their impact on how individuals, groups, and cultures experienced their worlds."
   }
 ]
